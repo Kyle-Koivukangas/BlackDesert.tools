@@ -1,0 +1,94 @@
+ ,,,,,,,,,,,,
+Recipe,Level,Ingredient 1,Quanitiy,Ingredient 2,Quanitiy,Ingredient 3,Quanitiy,Ingredient 4,Quanitiy,Ingredient 5,Quanitiy,Buff
+White Sauce,Beginner 1,Fruit,1,Milk,1,Base Sauce,1,Cooking Wine,2,,0,None
+Vinegar,Beginner 1,Fruit,1,Starch,1,Leavening Agent,1,Sugar,1,,0,None
+Red Sauce,Beginner 1,Meat,1,Base Sauce,1,Sugar,2,Mineral Water,2,,0,None
+High-Quality Carrot Juice,Beginner 1,High-Quality Carrot,1,Flour,3,Sugar,3,Mineral Water,4,,0,Horse HP +200
+Grain Soup,Beginner 1,Starch,6,Mineral Water,3,Cooking WIne,3,Salt,1,,0,Gathering Speed +1
+Fruit Juice,Beginner 1,Fruit,4,Sugar,3,Mineral Water,5,Salt,1,,0,MP +30
+Exotic Herbal Wine,Beginner 1,Dough,3,Essence of Liquor,1,Mineral Water,5,Leavening Agent,2,,0,Fishing Speed +1
+Essence of Liquor,Beginner 1,Flour,1,Fruit,1,Leavening Agent,1,,0,,0,None
+Beer,Beginner 1,Starch,5,MIneral Water,6,Sugar,1,Leavening Agent,2,,0,Worker Stamina +2
+Dressing,Beginner 1,Egg,1,Mineral Water,1,Olive Oil,1,Salt,2,,0,None
+Aloe Cookie,Beginner 6,Aloe,5,Dough,7,Honey,3,Sugar,4,,0,Accuracy +4
+Aloe Yogurt,Beginner 6,Aloe,5,Milk,2,Sugar,3,Leavening Agent,3,,0,Fishing Speed +1
+Boiled Bird Eggs,Beginner 6,Egg,3,MIneral Water,6,Cooking Wine,1,Salt,1,,0,AP +1
+Soft Bread,Beginner 6,Dough,6,Egg,2,Milk,3,Leavening Agent,2,,0,Stamina +100
+Fried Vegetables,Beginner 6,Vegetable,4,Dough,4,Egg,2,Deep Frying Oil,2,,0,HP Recovery +2
+Fruit Pudding,Beginner 6,Fruit,5,Cream,1,Milk,3,Sugar,2,,0,MP Recovery +2
+Teff Bread,Beginner 6,Teff Flour,5,Mineral Water,3,Salt,2,Leavening Agent,2,,0,Cook Alch time reduction .3s
+Stir-Fried Vegetables,Beginner 6,Vegetable,5,Hot Pepper,2,Olive Oil,2,Salt,1,,0,Jump Height +1
+Stir-Fried Seafood,Beginner 6,Seafood,1,Vegetable,4,White Sauce,2,Hot Pepper,2,,0,Casting Speed +1
+Steamed Fish,Beginner 6,Fish,1,Garlic,2,Mineral Water,3,Salt,2,,0,All Accuracy +4
+Special Carrot Juice,Beginner 6,Special Carrot,1,Flour,3,Sugar,3,Mineral Water,4,,0,Horse HP +300
+Seafood Mushroom Salad,Beginner 6,Seafood,1,Fortune Teller Mushroom,1,Dressing,2,,0,,0,Wegiht Limit +20
+Meat Stew,Beginner 6,Meat,5,Flour,2,Mineral Water,3,Cooking Wine,2,,0,Max HP +30
+Meat Soup,Beginner 6,Meat,5,Pepper,1,Cream,2,Mineral Water,4,,0,Critical Hit Rate +1
+Lizard Kebab,Beginner 6,Reptile Meat,6,Red Sauce,2,Onion,3,Starch,7,,0,Stamina +100
+Seafood Grilled With Butter,Beginner 6,Seafood,1,Butter,3,Salt,2,Olive Oil,1,,0,Attack Speed +1
+Grilled Sausage,Beginner 6,Meat,6,Onion,1,Pepper,2,Salt,2,,0,AP +1
+Pistachio Fried Rice,Beginner 6,Pistachio,4,Teff,6,Cinnamon,2,Salt,2,,0,Processing +3% Chance
+Good Feed,Apprentice 1,Fish,1,Meat,6,Flour,4,Mineral Water,3,,0,Pet Food +40
+Oatmeal,Apprentice 1,Flour,9,Milk,3,Onion,3,Honey,2,,0,Worker Stamina +5
+Smoked Fish Steak,Apprentice 1,Fish,2,Salt,2,Olive Oil,3,,0,,0,Attack Speed +1
+Seafood Pasta,Apprentice 1,Seafood,2,Dough,5,Garlic,3,Cooking WIne,3,,0,Casting Speed +1
+Pickled Vegetables,Apprentice 1,Vegetable,8,Vinegar,4,Leavening Agent,2,Sugar,2,,0,Gathering Speed +1
+Pickled Fish,Apprentice 1,Fish,1,Vinegar,2,Leavening Agent,2,Salt,4,,0,Amity +5%
+Omelet,Apprentice 1,Starch,5,Egg,5,Olive Oil,2,Salt,2,,0,Damage Reduction +2
+Meat Pie,Apprentice 1,Meat,4,Dough,6,Sugar,2,Olive Oil,2,,0,Stamina +200
+Meat Pasta,Apprentice 1,Meat,5,Dough,4,Pepper,3,Garlic,2,,0,Weight Limit +40
+Meat Croquette,Apprentice 1,Meat,8,Flour,5,Egg,2,Cheese,2,Deep Frying Oil,4,Combat EXP +5%
+Hunter's Salad,Apprentice 1,Soft Whale Meat,1,Essence of Liquor,2,Dressing,2,Garlic,5,,0,Hunting Damage +1000
+Honey Wine,Apprentice 1,Honey,3,Essence of Liquor,2,Sugar,2,Mineral Water,6,,0,Damage Reduction +2
+Fruit Wine,Apprentice 1,Fruit,5,Exotic Herbal Wine,1,Essence of Liquor,3,Mineral Water,2,,0,Fishing Speed +1
+Fruit and Vegetable Salad,Apprentice 1,Fruit,4,Vegetable,4,Vinegar,1,Cooking WIne,2,,0,MP Recovery +5
+Fried Bird,Apprentice 1,Bird Meat,7,Flour,4,Egg,2,Pepper,3,,0,HP Recovery +5
+Steak,Apprentice 1,Meat,8,Red Sauce,2,Garlic,2,Salt,2,,0,HP +50
+Steamed Bird,Apprentice 1,Bird Meat,5,Vegetable,3,Essence of Liquor,2,Vinegar,2,Salt,2,Combat EXP +3%
+Borscht,Apprentice 1,Fragrant Jerky,7,Milk,3,Cinnamon,1,Mineral Water,2,,0,Max Energy +10
+Desert Dumpling,Apprentice 1,Reptile Meat,6,Dough,6,Cinnamon,1,Olive Oil,2,,0,Stamina +200
+Fig Pie,Apprentice 1,Fig,5,Dough,3,Sugar,3,Olive Oil,2,,0,Gathering result +3%
+Fish Filet Salad,Apprentice 1,Fish,2,Dressing,2,Onion,3,Cheese,2,,0,Movement speed +1
+Fish Soup,Apprentice 1,Fish,1,Flour,3,Cream,2,Mineral Water,6,,0,Critical Hit Rate +1
+Fish Fillet Chip,Apprentice 1,Fish,2,White Sauce,3,Flour,7,Salt,2,,0,Worker Stamina +5
+Freekeh Snake Stew,Apprentice 1,Snake Meat,3,Freekah,6,Star Anise,2,Mineral Water,5,,0,Worker Stamina +5
+Tea With Fine Scent,Apprentice 1,Plants,4,Fruit,4,Honey,3,Mineral Water,7,,0,MP +50
+Stir-Fried Meat,Apprentice 1,Meat,7,Onion,2,Hot Pepper,3,Base Sauce,2,,0,AP +2
+Steamed Seafood,Apprentice 1,Seafood,2,Hot Pepper,3,Mineral Water,6,Salt,2,,0,Accuracy +6
+Fried Fish,Apprentice 1,Fish,1,Flour,3,Deep Frying Oil,2,,0,,0,Movement speed +1
+Beehive Cookie,Apprentice 6,Honey,6,Dough,4,Egg,2,Milk,4,,0,Weight Limit +50 Fishing Speed 1
+Organic Feed,Apprentice 6,Fish,2,Oatmeal,2,Meat,5,Bird Meat,4,,0,Pet Food +70
+Cheese Pie,Apprentice 6,Dough,4,Cheese,7,Butter,3,Egg,3,,0,Worker Stamina +7
+Date Palm Wine,Apprentice 6,Date Palm,5,Essence of Liquor,2,Sugar,1,Leavening Agent,4,,0,Evasion
+Lean Meat Salad,Apprentice 6,Meat,8,Vinegar,2,Pepper,3,Dressing,4,,0,Damage Reduction 3 HP recovery 5
+Meat Sandwich,Apprentice 6,Soft Bread,1,Meat,7,Vegetable,6,Cheese,3,,0,Movement Speed 1 Stamina 200
+Cheese Gratin,Apprentice 6,Grilled Sausage,1,Dough,5,Vegetable,4,Cheese,3,Red Sauce,3,HP +70 Attack Speed 1
+Fruit Pie,Apprentice 6,Fruit,6,Dough,6,Cream,3,Sugar,4,,0,MP +70 Casting Speed 1
+Assorted Side Dishes,Apprentice 6,Fried Bird,1,Seafood,2,Cheese,3,Fruit,5,,0,Life EXP +5%
+Milk Tea,Skilled 1,Tea With Fine Scent,2,Flour,2,Milk,3,Honey,3,,0,Combat EXP +8%
+Steamed Whale Meat,Skilled 1,Blue Whale Meat,1,Honey Wine,1,Garlic,4,Mineral Water,6,Salt,2,Damage Reduction +2 Evasion +8
+Sute Tea,Skilled 1,Tea With Fine Scent,2,Butter,2,Milk,3,Salt,1,,0,Life EXP +8%
+Whale Meat Salad,Skilled 1,Blue Whale Meat,1,Vegetable,6,Dressing,2,Egg,3,Pepper,4,Life EXP +10%
+Mediah Meal,Skilled 1,Dark Pudding,1,Oatmeal,1,Grilled Sausage,2,Lean Meat Salad,1,Exotic Herbal Wine,2,Attack +5 Attack Speed +1 Casting Speed +1
+Steamed Prawn,Skilled 1,Shrimp,4,Paprika,3,Hot Pepper,2,Cooking Wine,3,Mineral Water,4,Movement +2 Grapple Res +10%
+Prawn Salad,Skilled 1,Shrimp,2,Olive Oil,3,Salt,2,Egg,3,Fruit and Vegetable Salad,2,Weight +40lt Knockback/Float res +10%
+Stir-Fried Oyster,Skilled 1,Oyster,3,Egg,2,Flour,5,Vinegar,2,Olive Oil,3,Attack/Cast Speed +2 Stune res +10%
+Butter-Roasted Lobster,Skilled 1,Lobster,1,Butter,4,Salt,5,Olive Oil,5,Garlic,3,Crit +2 Knockdown res +10%
+Ham Sandwich,Skilled 1,Soft Bread,2,Grilled Sausage,2,Vegetable,5,Egg,4,,0,AP +3 ACC +8
+Grilled Scorpion,Skilled 1,Scorpion Meat,3,Butter,2,Nutmeg,3,Hot Pepper,3,,0,Monster Damage Decrease
+Dark Pudding,Skilled 1,Oatmeal,1,Pickled Vegetables,1,Bird Meat,5,Blood 2,7,,0,AP +3 Damage Against Humans +2
+Hard-Boiled Shellfish,Skilled 1,Seafood,2,Essence of Liquor,5,Garlic,5,Hot Pepper,5,Olivie Oil,5,Gather rank +2 UnderwaterBreathing +10s
+Calpheon Meal,Skiled 6,Soft Bread,2,Milk Tea,1,Fish Filet Salad,1,Cheese Pie,1,Meat Pasta,1,DMG Reduction 1 Max HP 100 HP Recovery 5
+Balenos Meal,Skiled 6,Cheese Gratin,1,Meat Croquette,1,Smoked Fish Steak,1,Stir-Fried Vegetables,2,Beer,2,Movement Speed 2 Fishing Speed 2 Gather Speed 2
+Couscous,Skiled 6,Freekeh Snake Stew,1,Teff Flour Dough,6,Nutmeg,3,Vegetable,4,,0,Processing +5% Chance
+Knight Combat Rations,Skilled 6,Dark Pudding,1,Ham Sandwich,1,Meat Croquette,1,Fruit Wine,1,,0,All Attack +5 Damage Against Humans +5 Damage Reduction +5
+Serendia Meal,Skilled 6,Ham Sandwich,1,Meat Pie,1,Beehive Cookie,1,Boiled Bird Eggs,2,Fruit Wine,2,All Attack +5 Accuracy +10 Critical Hit Chance +1
+Coconut Cocktail,Professional 1,Coconut,2,Exotic Herbal Wine,1,Essence of Liquor,2,Fruit,1,Mineral Water,5,Fish Time -5%
+Coconut Fried Fish,Professional 1,Coconut,3,Fish,1,Egg,2,Dough,3,Deep Frying Oil,4,Movement Speed +1 Critical +1
+Coconut Pasta,Professional 1,Coconut,2,Onion,2,Garlic,4,Dough,5,White Sauce,1,Heat Sunstroke resistence 10%
+Khalk's Fermented Wine,Professional 1,Fugitive Khalk's Horn,1,Honey Wine,5,Date Palm,6,Leavening Agent,6,Sugar,6,All Attack 7 Movement Speed 1 Hp Recovery 10 Hunting +700
+King Of Jungle Hamburg,Professional 1,Lion Meat,4,Teff Bread,4,Pickled Vegetables,2,Nutmeg,3,,0,All Resistance 3% Critical DMG increase
+Teff Sandwich,Professional 1,Teff Bread,1,Grilled Scorpion,1,Freekeh Snake Stew,1,Red Sauce,3,,0,Cook Alch time reduction .5s
+Valencian Meal,Professional 6,Teff Sandwich,1,King of Jungle Hamburg,1,Couscous,1,Fig Pie,2,Date Palm Wine,2,Resistance 4% debuff resistance 4% evasion +6 DMG decrease from monster
+Margoria Seafood Extravaganza,Artisan 1,Prawn Salad,1,Steamd Prawn,1,Stir-Fried Oyster,1,Butter-Roasted Lobster,1,Fruit Wine,2,Weight 50lt Movement +2 Crit + 2 HP +100
+Arehaza Special,Artisan 1,Coconut Cocktail,2,Coconut Pasta,1,Coconut Fried Fish,1,Meat Stew,1,Steak,1,Sun/heatstroke -5% fish time 5% Move Speed 2 Crit 1
