@@ -153,7 +153,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 
 .boss-table {
@@ -161,8 +161,8 @@ export default {
     margin: 0 auto 0 auto;
     padding: 5px 5px 10px 5px;
     font-family: 'Nunito Sans', sans-serif;
-    // background-color: aliceblue;
-    // border-radius: 3px;
+    /* // background-color: aliceblue;
+    // border-radius: 3px; */
 }
 form {
     padding-bottom: 5px;

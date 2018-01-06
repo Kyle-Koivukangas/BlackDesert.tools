@@ -3,7 +3,7 @@ import Router from "vue-router";
 
 import Home from "@/components/Home";
 import BossTimers from "@/components/bossTimers/BossTimers";
-import CookingCalc from "@/components/cookingCalculator/CookingCalc";
+import CookingPage from "@/components/cookingCalculator/CookingPage";
 
 Vue.use(Router);
 
@@ -21,8 +21,8 @@ export default new Router({
         },
         {
             path: "/cooking",
-            name: "CookingCalc",
-            component: CookingCalc,
+            name: "CookingPage",
+            component: CookingPage,
         },
     ],
 });
