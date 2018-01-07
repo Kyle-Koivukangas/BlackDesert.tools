@@ -27,38 +27,12 @@
 <script>
 export default {
     props: {
-        ingredients: {
-            type: Object,
-            default: function() {
-                return {
-                    ingredient1: {
-                        name: 'ingredient1',
-                        high: 0,
-                        low: 0,
-                    },
-                    ingredient2: {
-                        name: 'ingredient2',
-                        high: 0,
-                        low: 0,
-                    },
-                    ingredient3: {
-                        name: 'ingredient3',
-                        high: 0,
-                        low: 0,
-                    },
-                    ingredient4: {
-                        name: 'ingredient4',
-                        high: 0,
-                        low: 0,
-                    },
-                    ingredient5: {
-                        name: 'ingredient5',
-                        high: 0,
-                        low: 0,
-                    },
-                }
+        recipe: Object,
+        default: function() {
+            return {
+                
             }
-        },
+        }
     },
 
 };
