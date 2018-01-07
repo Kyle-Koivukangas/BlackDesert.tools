@@ -1,0 +1,615 @@
+{
+    "DateCollected": "2017/01/06",
+    "Aloe": {
+        "high": "460",
+        "low": "380"
+    },
+    "Aloe Cookie": {
+        "high": "2450",
+        "low": "1840"
+    },
+    "Aloe Yogurt": {
+        "high": "1020",
+        "low": "830"
+    },
+    "Arehaza Special": {
+        "high": "20570",
+        "low": "18800"
+    },
+    "Assorted Side Dishes": {
+        "high": "1900",
+        "low": "19000"
+    },
+    "Balenos Meal": {
+        "high": "28900",
+        "low": "26300"
+    },
+    "Base Sauce": {
+        "high": "40",
+        "low": "33"
+    },
+    "Beehive Cookie": {
+        "high": "0",
+        "low": "0"
+    },
+    "Beer": {
+        "high": "1300",
+        "low": "1300"
+    },
+    "Bird Meat": {
+        "high": "1500",
+        "low": "1200"
+    },
+    "Blood 2": {
+        "high": "2200",
+        "low": "1600"
+    },
+    "Blue Whale Meat": {
+        "high": "120000",
+        "low": "97000"
+    },
+    "Boiled Bird Eggs": {
+        "high": "1300",
+        "low": "1070"
+    },
+    "Borscht": {
+        "high": "2100",
+        "low": "2100"
+    },
+    "Butter": {
+        "high": "1040",
+        "low": "1040"
+    },
+    "Butter-Roasted Lobster": {
+        "high": "22500",
+        "low": "18400"
+    },
+    "Calpheon Meal": {
+        "high": "32000",
+        "low": "26000"
+    },
+    "Cheese": {
+        "high": "830",
+        "low": "680"
+    },
+    "Cheese Gratin": {
+        "high": "14400",
+        "low": "11800"
+    },
+    "Cheese Pie": {
+        "high": "7000",
+        "low": "5700"
+    },
+    "Cinnamon": {
+        "high": "460",
+        "low": "380"
+    },
+    "Coconut": {
+        "high": "830",
+        "low": "680"
+    },
+    "Coconut Cocktail": {
+        "high": "2075",
+        "low": "1583"
+    },
+    "Coconut Fried Fish": {
+        "high": "11900",
+        "low": "11800"
+    },
+    "Coconut Pasta": {
+        "high": "10900",
+        "low": "9800"
+    },
+    "Cooking WIne": {
+        "high": "40",
+        "low": "40"
+    },
+    "Cooking Wine": {
+        "high": "40",
+        "low": "40"
+    },
+    "Couscous": {
+        "high": "17100",
+        "low": "17000"
+    },
+    "Cream": {
+        "high": "830",
+        "low": "680"
+    },
+    "Dark Pudding": {
+        "high": "20600",
+        "low": "19300"
+    },
+    "Date Palm": {
+        "high": "420",
+        "low": "400"
+    },
+    "Date Palm Wine": {
+        "high": "2350",
+        "low": "1700"
+    },
+    "Deep Frying Oil": {
+        "high": "40",
+        "low": "40"
+    },
+    "Desert Dumpling": {
+        "high": "10700",
+        "low": "10700"
+    },
+    "Dough": {
+        "high": "600",
+        "low": "400"
+    },
+    "Dressing": {
+        "high": "500",
+        "low": "450"
+    },
+    "Egg": {
+        "high": "625",
+        "low": "510"
+    },
+    "Essence of Liquor": {
+        "high": "530",
+        "low": "520"
+    },
+    "Exotic Herbal Wine": {
+        "high": "380",
+        "low": "350"
+    },
+    "Fig": {
+        "high": "440",
+        "low": "400"
+    },
+    "Fig Pie": {
+        "high": "1320",
+        "low": "1080"
+    },
+    "Fish": {
+        "high": "1600",
+        "low": "1200"
+    },
+    "Fish Fillet Salad": {
+        "high": "5400",
+        "low": "4500"
+    },
+    "Fish Fillet Chip": {
+        "high": "5700",
+        "low": "5500"
+    },
+    "Fish Soup": {
+        "high": "1400",
+        "low": "1100"
+    },
+    "Flour": {
+        "high": "600",
+        "low": "400"
+    },
+    "Fortune Teller Mushroom": {
+        "high": "450",
+        "low": "400"
+    },
+    "Fragrant Jerky": {
+        "high": "570",
+        "low": "470"
+    },
+    "Freekah": {
+        "high": "0",
+        "low": "00"
+    },
+    "Freekeh Snake Stew": {
+        "high": "10700",
+        "low": "8700"
+    },
+    "Fried Bird": {
+        "high": "3700",
+        "low": "3000"
+    },
+    "Fried Fish": {
+        "high": "1600",
+        "low": "1300"
+    },
+    "Fried Vegetables": {
+        "high": "1060",
+        "low": "860"
+    },
+    "Fruit": {
+        "high": "800",
+        "low": "600"
+    },
+    "Fruit Juice": {
+        "high": "660",
+        "low": "540"
+    },
+    "Fruit Pie": {
+        "high": "3500",
+        "low": "2500"
+    },
+    "Fruit Pudding": {
+        "high": "3800",
+        "low": "3100"
+    },
+    "Fruit Wine": {
+        "high": "2600",
+        "low": "2600"
+    },
+    "Fruit and Vegetable Salad": {
+        "high": "3600",
+        "low": "2800"
+    },
+    "Fugitive Khalk's Horn": {
+        "high": "120000",
+        "low": "97000"
+    },
+    "Garlic": {
+        "high": "700",
+        "low": "570"
+    },
+    "Good Feed": {
+        "high": "13500",
+        "low": "12400"
+    },
+    "Grain Soup": {
+        "high": "635",
+        "low": "578"
+    },
+    "Grilled Sausage": {
+        "high": "7300",
+        "low": "6000"
+    },
+    "Grilled Scorpion": {
+        "high": "10800",
+        "low": "8800"
+    },
+    "Ham Sandwich": {
+        "high": "24500",
+        "low": "20000"
+    },
+    "Hard-Boiled Shellfish": {
+        "high": "23000",
+        "low": "18600"
+    },
+    "High-Quality Carrot": {
+        "high": "3000",
+        "low": "2400"
+    },
+    "High-Quality Carrot Juice": {
+        "high": "470",
+        "low": "380"
+    },
+    "Honey": {
+        "high": "1250",
+        "low": "1250"
+    },
+    "Honey Wine": {
+        "high": "2750",
+        "low": "2600"
+    },
+    "Hot Pepper": {
+        "high": "600",
+        "low": "600"
+    },
+    "Hunter's Salad": {
+        "high": "10200",
+        "low": "10200"
+    },
+    "Khalk's Fermented Wine": {
+        "high": "76000",
+        "low": "62000"
+    },
+    "King Of Jungle Hamburg": {
+        "high": "27400",
+        "low": "23300"
+    },
+    "King of Jungle Hamburg": {
+        "high": "27400",
+        "low": "23300"
+    },
+    "Knight Combat Rations": {
+        "high": "45500",
+        "low": "37700"
+    },
+    "Lean Meat Salad": {
+        "high": "13500",
+        "low": "13400"
+    },
+    "Leavening Agent": {
+        "high": "20",
+        "low": "20"
+    },
+    "Lion Meat": {
+        "high": "3200",
+        "low": "2600"
+    },
+    "Lizard Kebab": {
+        "high": "3900",
+        "low": "3200"
+    },
+    "Lobster": {
+        "high": "27500",
+        "low": "22500"
+    },
+    "MIneral Water": {
+        "high": "30",
+        "low": "30"
+    },
+    "Margoria Seafood Extravaganza": {
+        "high": "104000",
+        "low": "104000"
+    },
+    "Meat": {
+        "high": "2000",
+        "low": "1500"
+    },
+    "Meat Croquette": {
+        "high": "12300",
+        "low": "10000"
+    },
+    "Meat Pasta": {
+        "high": "8500",
+        "low": "7000"
+    },
+    "Meat Pie": {
+        "high": "4800",
+        "low": "4700"
+    },
+    "Meat Sandwich": {
+        "high": "14200",
+        "low": "12600"
+    },
+    "Meat Soup": {
+        "high": "2000",
+        "low": "1600"
+    },
+    "Meat Stew": {
+        "high": "5700",
+        "low": "4700"
+    },
+    "Mediah Meal": {
+        "high": "44800",
+        "low": "36600"
+    },
+    "Milk": {
+        "high": "2400",
+        "low": "1900"
+    },
+    "Milk Tea": {
+        "high": "12300",
+        "low": "10000"
+    },
+    "Mineral Water": {
+        "high": "30",
+        "low": "30"
+    },
+    "Nutmeg": {
+        "high": "500",
+        "low": "400"
+    },
+    "Oatmeal": {
+        "high": "7000",
+        "low": "5700"
+    },
+    "Olive Oil": {
+        "high": "40",
+        "low": "40"
+    },
+    "Olivie Oil": {
+        "high": "40",
+        "low": "40"
+    },
+    "Omelet": {
+        "high": "3400",
+        "low": "2800"
+    },
+    "Onion": {
+        "high": "660",
+        "low": "540"
+    },
+    "Organic Feed": {
+        "high": "18000",
+        "low": "18000"
+    },
+    "Oyster": {
+        "high": "4800",
+        "low": "3900"
+    },
+    "Paprika": {
+        "high": "400",
+        "low": "300"
+    },
+    "Pepper": {
+        "high": "600",
+        "low": "400"
+    },
+    "Pickled Fish": {
+        "high": "1000",
+        "low": "900"
+    },
+    "Pickled Vegetables": {
+        "high": "2200",
+        "low": "1800"
+    },
+    "Pistachio": {
+        "high": "430",
+        "low": "350"
+    },
+    "Pistachio Fried Rice": {
+        "high": "1700",
+        "low": "1400"
+    },
+    "Plants": {
+        "high": "0",
+        "low": "0"
+    },
+    "Prawn Salad": {
+        "high": "21400",
+        "low": "17500"
+    },
+    "Red Sauce": {
+        "high": "1200",
+        "low": "960"
+    },
+    "Reptile Meat": {
+        "high": "",
+        "low": "2000"
+    },
+    "Salt": {
+        "high": "20",
+        "low": "20"
+    },
+    "Scorpion Meat": {
+        "high": "2200",
+        "low": "1800"
+    },
+    "Seafood": {
+        "high": "0",
+        "low": "0"
+    },
+    "Seafood Grilled With Butter": {
+        "high": "2400",
+        "low": "2300"
+    },
+    "Seafood Mushroom Salad": {
+        "high": "2600",
+        "low": "2300"
+    },
+    "Seafood Pasta": {
+        "high": "5500",
+        "low": "4500"
+    },
+    "Serendia Meal": {
+        "high": "34000",
+        "low": "27800"
+    },
+    "Shrimp": {
+        "high": "4600",
+        "low": "3700"
+    },
+    "Smoked Fish Steak": {
+        "high": "2200",
+        "low": "1800"
+    },
+    "Snake Meat": {
+        "high": "2700",
+        "low": "2200"
+    },
+    "Soft Bread": {
+        "high": "2900",
+        "low": "2800"
+    },
+    "Soft Whale Meat": {
+        "high": "8700",
+        "low": "7100"
+    },
+    "Special Carrot": {
+        "high": "6200",
+        "low": "4900"
+    },
+    "Special Carrot Juice": {
+        "high": "900",
+        "low": "800"
+    },
+    "Star Anise": {
+        "high": "630",
+        "low": "520"
+    },
+    "Starch": {
+        "high": "450",
+        "low": "270"
+    },
+    "Steak": {
+        "high": "10000",
+        "low": "10000"
+    },
+    "Steamd Prawn": {
+        "high": "19300",
+        "low": "15800"
+    },
+    "Steamed Bird": {
+        "high": "3000",
+        "low": "2500"
+    },
+    "Steamed Fish": {
+        "high": "800",
+        "low": "600"
+    },
+    "Steamed Prawn": {
+        "high": "19300",
+        "low": "15800"
+    },
+    "Steamed Seafood": {
+        "high": "5300",
+        "low": "4300"
+    },
+    "Steamed Whale Meat": {
+        "high": "158000",
+        "low": "130000"
+    },
+    "Stir-Fried Meat": {
+        "high": "3300",
+        "low": "3300"
+    },
+    "Stir-Fried Oyster": {
+        "high": "0",
+        "low": "0"
+    },
+    "Stir-Fried Seafood": {
+        "high": "3000",
+        "low": "2300"
+    },
+    "Stir-Fried Vegetables": {
+        "high": "1550",
+        "low": "1550"
+    },
+    "Sugar": {
+        "high": "20",
+        "low": "20"
+    },
+    "Sute Tea": {
+        "high": "14200",
+        "low": "10500"
+    },
+    "Tea With Fine Scent": {
+        "high": "6600",
+        "low": "6000"
+    },
+    "Teff": {
+        "high": "230",
+        "low": "180"
+    },
+    "Teff Bread": {
+        "high": "460",
+        "low": "380"
+    },
+    "Teff Flour": {
+        "high": "460",
+        "low": "460"
+    },
+    "Teff Flour Dough": {
+        "high": "500",
+        "low": "400"
+    },
+    "Teff Sandwich": {
+        "high": "27000",
+        "low": "27000"
+    },
+    "Valencian Meal": {
+        "high": "24800",
+        "low": "20300"
+    },
+    "Vegetable": {
+        "high": "500",
+        "low": "300"
+    },
+    "Vinegar": {
+        "high": "500",
+        "low": "400"
+    },
+    "Whale Meat Salad": {
+        "high": "175000",
+        "low": "145000"
+    },
+    "White Sauce": {
+        "high": "1000",
+        "low": "800"
+    }
+}
